@@ -1,3 +1,0 @@
--This program is a console program that adds, deletes and sets appointment
--Programming language: Java
--IDE: Netbeans
